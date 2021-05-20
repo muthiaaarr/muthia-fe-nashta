@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Rajdhani);
+
+* {
+    box-sizing: border-box;
+}
+
+.add-event-form {
+    margin-top: 3%;
+}
+
+.add-event-form .form-box {
+    padding: 3%;
+}
+
+.add-event-form .img-col {
+    margin: auto;
+}
+
+.add-event-form .required {
+    color: red;
+}
+
+@media only screen and (min-width: 380px) and (max-width: 1024px) {
+    .img.col {
+        border-width: 100%;
+    }
+}

@@ -1,0 +1,21 @@
+.cards-box {
+    margin-top: 3%;
+}
+
+.event-card-picture {
+    max-width: 100%;
+}
+
+.map-icon {
+    max-width: 10%;
+}
+
+.participants {
+    margin-left: 1%;
+}
+
+.participants-avatar {
+    max-width: 7%;
+    margin-left: 3%;
+    margin-right: 1%;
+}
